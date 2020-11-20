@@ -1,0 +1,9 @@
+2020-11-15 00:02:08,955 - Kuhn Poker: ME-POMCP - epochs: 10	simulations: 100	me_tau: 1.00	me_epsilon: 0.50	ave undiscounted return: -1.00 +- 0.00	ave discounted return: -1.00 +- 0.00	ave time/epoch: 0.86
+2020-11-15 00:06:11,334 - Kuhn Poker: ME-POMCP - epochs: 10	simulations: 100	me_tau: 1.00	me_epsilon: 0.50	ave undiscounted return: 1.10 +- 0.09	ave discounted return: 1.10 +- 0.09	ave time/epoch: 0.84
+2020-11-15 00:07:49,001 - Kuhn Poker: ME-POMCP - epochs: 10	simulations: 100	me_tau: 1.000	me_epsilon: 0.500	ave undiscounted return: 1.500 +- 0.158	ave discounted return: 1.500 +- 0.158	ave time/epoch: 0.840
+2020-11-17 22:32:24,116 - Kuhn Poker: POMCP - epochs: 10	simulations: 100	uct_c: 50.000	ave undiscounted return: 1.400 +- 0.155	ave discounted return: 1.400 +- 0.155	ave time/epoch: 0.934
+2020-11-17 22:33:22,966 - Kuhn Poker: POMCP - epochs: 10	simulations: 100	uct_c: 50.000	ave undiscounted return: 1.700 +- 0.145	ave discounted return: 1.700 +- 0.145	ave time/epoch: 0.924
+2020-11-18 12:12:25,722 - Kuhn Poker: POMCP - epochs: 10	simulations: 100	uct_c: 50.000	ave undiscounted return: 1.700 +- 0.145	ave discounted return: 1.700 +- 0.145	ave time/epoch: 0.819
+2020-11-18 16:41:50,053 - Kuhn Poker: POMCP - epochs: 10	simulations: 100	uct_c: 50.000	ave undiscounted return: 1.700 +- 0.145	ave discounted return: 1.700 +- 0.145	ave time/epoch: 0.793
+2020-11-18 20:54:40,566 - Kuhn Poker: ME-POMCP - epochs: 10	simulations: 100	me_tau: 1.000	me_epsilon: 0.500	ave undiscounted return: 1.300 +- 0.145	ave discounted return: 1.300 +- 0.145	ave time/epoch: 0.967
+2020-11-18 20:58:26,748 - Kuhn Poker: POMCP - epochs: 10	simulations: 100	uct_c: 50.000	ave undiscounted return: 1.400 +- 0.155	ave discounted return: 1.400 +- 0.155	ave time/epoch: 0.894
